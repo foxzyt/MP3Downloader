@@ -20,7 +20,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
+Dependencies : You need ffmpeg in this location : MP3Downloader/libs/ffmpeg : here must be the 'bin' folder with the executable files.
 
 About the urls.txt file :
 
@@ -32,3 +32,4 @@ About the convert.py file :
 It removes the extra parameters from some YouTube links (ex: https://www.youtube.com/watch?v=abcd1234&t=30s&list=XYZ)
 and transforms it into a clean version of the URL (ex: https://www.youtube.com/watch?v=abcd1234), so the downloading process
 works without errors.
+
